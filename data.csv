@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Jayant,yadav,10,123 Main St,,Mumbai,Maharasthra,male
+Jamie,Smith,25,456 Elm St,,Delhi,Harayana,female
+Ram,Kumar,28,789 Oak St,,Gurgaon,Harayana,male
+Anju,Singh,70,987 Maple St,,Pune,Maharasthra,female
+
